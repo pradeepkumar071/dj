@@ -146,7 +146,7 @@ header{
             float: left;
         }
         .workitem1{    
-            background: url(images/work1.jfif) no-repeat ;
+            background: url(../images/work1.jfif) no-repeat ;
             background-size: cover;
             width:90%;
             height: 200px;    
